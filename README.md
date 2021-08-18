@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DincEmre
+- 👋 Hi, I’m Emre Dinc
 - 👀 I’m interested in Java Programming Language
-- I am a Junior Java Backend Developer at FMSS Information Technologies.
+- 💻 I am a Junior Java Backend Developer at FMSS Information Technologies.
 - 🌱 I’m currently learning Java Spring Framework.
 - 📫 How to reach me ... dinc.emree11@gmail.com or megalodonn98@gmail.com 
 
